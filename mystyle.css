@@ -254,7 +254,6 @@ body {
 }
 h5 {
     font-family: 'Montserrat', sans-serif;
-    color: black;
 }
 .aliyah-kotakform {
     border: 0.8px solid rgb(195, 195, 195);
@@ -276,4 +275,7 @@ h5 {
 }
 .aliyahrangesosmed:hover {
     transform: scale(1.1);
+}
+.aliyah-warnafont {
+    color: black;
 }
